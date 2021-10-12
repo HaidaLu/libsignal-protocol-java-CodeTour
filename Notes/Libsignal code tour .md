@@ -39,12 +39,12 @@ This package provides the different classes of Signal Double Ratchet protocol.
 ### Key
 
 There are 3 key class. `ChainKey` and `MessageKeys` maintain the symmetric-key ratchet as follows:
-![Alt text](images/Screenshot 2021-10-12 at 01.07.27.png)
+![image info](images/Screenshot 2021-10-12 at 01.07.27.png)
 
 
 
 and The `RootKey` maintains a rootChain which can derive the `ChainKey` as follows:
-![Alt text](images/Screenshot 2021-10-12 at 01.10.49.png)
+![image info](images/Screenshot 2021-10-12 at 01.10.49.png)
 
 
 ### Parameters
