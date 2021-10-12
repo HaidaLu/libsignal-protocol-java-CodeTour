@@ -1,0 +1,15 @@
+org.whispersystems.libsignal
+org.whispersystems.libsignal.devices
+org.whispersystems.libsignal.ecc
+org.whispersystems.libsignal.fingerprint
+org.whispersystems.libsignal.groups
+org.whispersystems.libsignal.groups.ratchet
+org.whispersystems.libsignal.groups.state
+org.whispersystems.libsignal.kdf
+org.whispersystems.libsignal.logging
+org.whispersystems.libsignal.protocol
+org.whispersystems.libsignal.ratchet
+org.whispersystems.libsignal.state
+org.whispersystems.libsignal.state.impl
+org.whispersystems.libsignal.util
+org.whispersystems.libsignal.util.guava
