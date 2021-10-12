@@ -39,16 +39,13 @@ This package provides the different classes of Signal Double Ratchet protocol.
 ### Key
 
 There are 3 key class. `ChainKey` and `MessageKeys` maintain the symmetric-key ratchet as follows:
+![Alt text](Screenshot 2021-10-12 at 01.07.27.png)
 
-![Screenshot 2021-10-12 at 01.07.27.png](Libsignal%20code%20tour%20453a11b42d2a430a8c9f38aa2650d604/Screenshot_2021-10-12_at_01.07.27.png)
 
-source: [https://signal.org/docs/specifications/doubleratchet/#initialization](https://signal.org/docs/specifications/doubleratchet/#initialization)
 
 and The `RootKey` maintains a rootChain which can derive the `ChainKey` as follows:
+![Alt text](Screenshot 2021-10-12 at 01.10.49.png)
 
-![Screenshot 2021-10-12 at 01.10.49.png](Libsignal%20code%20tour%20453a11b42d2a430a8c9f38aa2650d604/Screenshot_2021-10-12_at_01.10.49.png)
-
-source:[https://signal.org/docs/specifications/doubleratchet/#initialization](https://signal.org/docs/specifications/doubleratchet/#initialization)
 
 ### Parameters
 
