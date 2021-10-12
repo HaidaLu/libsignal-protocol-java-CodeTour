@@ -1,5 +1,5 @@
 # libsignal-protocol-java-CodeTour
-This repository is a code tour for the libsignal, which contains a javadoc for libsignal and my notes to help get more intuition and use the libsignal.
+This repository is a code tour for the libsignal, which contains a javadoc with more details for libsignal and my notes to help get more intuition and use the libsignal.
 
 ## Source:
 Signal Protocol Docs: https://signal.org/docs/
